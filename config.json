@@ -1,0 +1,16 @@
+{
+    "HUE": {
+        "USERNAME": "<HUE USERNAME>",
+        "IP_ADDRESS": "<HUE BRIDGE IP>",
+        "GROUP_ID": 1
+    },
+    "SONOS": {
+        "HOSTNAME": "<HTTP-SONOS IP>",
+        "PORT": "5005",
+        "ROOM_NAME": "<SONOS ROOM NAME>",
+        "PLAYLIST_NAME": "<SONOS PLAYLIST NAME>"
+    },
+    "RUNTIME": 50,
+    "API_PORT": 8819,
+    "COOLDOWN": 60
+}

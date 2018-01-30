@@ -1,0 +1,34 @@
+{
+  "name": "blackhawks-goal-scoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^3.1.0",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "node-hue-api": "^2.4.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "serve-favicon": "^2.4.5",
+    "supervisor": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "supervisor --ignore data ./bin/www",
+    "inspect": "supervisor ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinnewhouse/blackhawks-goal-scoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinnewhouse/blackhawks-goal-scoring/issues"
+  },
+  "homepage": "https://github.com/kevinnewhouse/blackhawks-goal-scoring#readme"
+}

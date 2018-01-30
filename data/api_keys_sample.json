@@ -1,0 +1,16 @@
+{
+    "clients" : [
+        {
+            "name": "<client name>",
+            "key": "<key1>"
+        },
+        {
+            "name": "Sample Client",
+            "key": "clientkey1!"
+        },
+        {
+            "name": "Web App",
+            "key": "password_1"
+        }
+    ]
+}

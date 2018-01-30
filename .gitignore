@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# app-generated json
+last_processed.json
+api_keys.json
